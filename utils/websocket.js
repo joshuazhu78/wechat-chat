@@ -1,4 +1,4 @@
-var url = 'ws://121.42.51.70:8080/ws';
+var url = 'wss://webcomchrome.xyz:8080/ws';
 
 function connect (user, func) {
 
